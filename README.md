@@ -1,2 +1,2 @@
-# awesome_face_forgery_detection
-Resources for face forgery detection
+# awesome_face_forensics
+Resources for face forensics
